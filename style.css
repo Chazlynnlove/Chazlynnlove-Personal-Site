@@ -1,6 +1,5 @@
 *{
     font-family: "Pixelify Sans", sans-serif;
-    background-color: rgb(255, 221, 0);
 }
 body{
     width: 100;
@@ -10,6 +9,7 @@ body{
     align-items: center;
     justify-content: center;
     margin: 0 auto;
+    background-color: rgb(255, 221, 0);
 }
 
 .header{
