@@ -47,7 +47,7 @@ body{
 
 .navbar {
     display: flex;
-    color: #9509b8;
+    background-color: #9509b8;
 }
 .navbar a {
     color: white;
