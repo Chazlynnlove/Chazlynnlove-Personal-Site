@@ -1,1 +1,1 @@
-This is a personal website I made in a workshop at snowglobe! It describes me. Run the project with the demo link provided.
+This is a personal website I made in a workshop at snowglobe! It describes me. Run the project with the demo link provided. This is the correct demo url,  https://chazlynnlove.github.io/Chazlynnlove-Personal-Site/index.html please fix that
