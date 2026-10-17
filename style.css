@@ -37,4 +37,6 @@ body{
     object-fit: certain;
  }
 
- 
+ button{
+    background-color: rgb(0, 255, 195);
+ }
