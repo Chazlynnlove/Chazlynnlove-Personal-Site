@@ -37,3 +37,13 @@ body{
     object-fit: certain;
  }
 
+.navbar {
+    display: flex;
+    background-color: #9509b8;
+}
+.navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
